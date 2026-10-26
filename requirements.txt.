@@ -1,4 +1,4 @@
 streamlit
 pandas
-plotly>=5.0.0
+plotly
 streamlit-autorefresh
